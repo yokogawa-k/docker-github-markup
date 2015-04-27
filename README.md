@@ -1,4 +1,4 @@
-Docker Image for [github/markup](https://github.com/github/markup/tree/master/script)
+Docker Image for [github/markup](https://github.com/github/markup/)
 ====
 
 How to use.
